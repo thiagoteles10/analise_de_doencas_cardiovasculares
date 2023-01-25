@@ -14,3 +14,8 @@
 - [x] Verificação das variáveis contidas no DataFrame
 - [ ] Verificação de dados faltantes e dados duplicados
 - [ ] Exclusão de linhas duplicadas
+
+🛠 Tecnologias e Ferramentas usadas
+
+* Pandas
+
