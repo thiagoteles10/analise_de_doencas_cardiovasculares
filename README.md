@@ -10,9 +10,11 @@ O conjunto de dados utilizado neste projeto foi obtido de fontes públicas e con
 <h3 align="left"> Análise </h3>
 A análise dos dados será realizada utilizando técnicas de estatística descritiva e inferencial, além de modelagem de dados. Serão identificados fatores de risco e tendências relacionadas à ocorrência de doenças cardiovasculares.
 
-- notebook contendo o processo de limpeza dos dados
-- notebook contendo a exploração e visualização dos dados limpos
-- notebook contendo a criação e avaliação dos modelos estatísticos
+<h3 align="left"> Procedimentos realizados no conjunto de dados</h3>
+- processo de limpeza dos dados.
+- exploração e visualização dos dados limpos.
+- criação e avaliação dos modelos estatísticos.
+- uso de Machine Learning.
 
 <h3 align="left">Resultados </h3> 
 Os resultados da análise serão apresentados em forma de gráficos e tabelas.
@@ -42,7 +44,7 @@ O conjunto de dados utilizado neste projeto será heart.csv. Esse conjunto de da
 3. Baixe o conjunto de dados.
 4. Execute os notebooks na ordem dentro do google colab
 
-<h3 align="left">Autores</h3>
+<h3 align="left">Autor</h3>
 "Thiago Henrique De Andrade Teles"
 
 
